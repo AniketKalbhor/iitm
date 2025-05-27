@@ -23,3 +23,5 @@ matplotlib>=3.7.0
 # Utilities
 tqdm>=4.65.0
 jupyterlab>=4.0.0
+
+cartopy
